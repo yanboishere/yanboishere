@@ -3,11 +3,11 @@
 <!--my introduction start-->
 
 - Hi👋, I'm Yanbo.
-- :house: From a small county next to the Changbai Mountains.
-- Now a student majoring in electronic information engineering.
-  and a half-ass digital technology,
-  Photography (I'm more interested in film lately),
-  Travel enthusiast.
+- 🏠: From a small county next to the Changbai Mountains.
+- 🏫Now a student majoring in electronic information engineering.
+- 📱: A half-ass digital technology,
+  📷:Photography (I'm more interested in film lately),
+  🎈：Travel enthusiast.
 - :mailbox_with_mail: Contact me: yanbotravelaroundworld@gmail.com
 - 💬 Be free to ask me about anything [here](https://github.com/yanboishere/yanboishere/issues).
 
