@@ -18,6 +18,10 @@
 
 <br>
 
+<a href="#stats" align="center">
+    <img align="center" alt="Yanbo 's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yanboishere&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=material-palenight"/>
+</a>
+
 **Languages and Frameworks**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
