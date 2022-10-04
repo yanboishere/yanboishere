@@ -33,7 +33,7 @@
 
 **Languages and Frameworks**
 
-(https://skillicons.dev/icons?i=azure,cloudflare,workers,github,cpp,html,js,ts,css,py,md,git,linux)
+![Skills](https://skillicons.dev/icons?i=azure,cloudflare,workers,github,cpp,html,js,ts,css,py,md,git,linux)
 
 **Tools and Environments**
 
