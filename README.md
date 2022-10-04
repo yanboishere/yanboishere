@@ -33,11 +33,11 @@
 
 **Languages and Frameworks**
 
-![Skills](https://skillicons.dev/icons?i=github,cpp,htmlcss,py,md,git,linux,ubuntu)
+![Skills](https://skillicons.dev/icons?i=pr,ps,github,cpp,htmlcss,py,md,git,linux)
 
 **Tools and Environments**
 
-![Skills](https://skillicons.dev/icons?i=vscode,jetbrains)
+![Skills](https://skillicons.dev/icons?i=vscode)
 
 <br>
 
