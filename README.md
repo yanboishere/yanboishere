@@ -23,6 +23,8 @@
 </a>
 
 
+---
+</details>
 
 **Languages and Frameworks**
 
