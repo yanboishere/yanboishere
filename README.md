@@ -4,7 +4,7 @@
 
 - Hi👋, I'm Yanbo.
   - 🏠 From a small county next to the Changbai Mountains.
-  - 🏫 Now a student majoring in electronic information engineering.
+  - 🏫 Now a student majoring in electronic engineering.
   - 📱  A half-ass digital technology,
   - 📷 Photography (I'm more interested in film lately),
   - 🎈 Travel enthusiast.
