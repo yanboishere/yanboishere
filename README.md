@@ -22,6 +22,9 @@
     <img align="center" alt="Yanbo 's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yanboishere&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=material-palenight"/>
 </a>
 
+<a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yanboishere&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yanboishere&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Top Langs" height="185px">
+
 
 ---
 </details>
