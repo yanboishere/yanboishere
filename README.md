@@ -37,7 +37,7 @@
 
 **Tools and Environments**
 
-![Skills](https://skillicons.dev/icons?i=vs,vscode,clion,pychame,goland,webstorm)
+![Skills](https://skillicons.dev/icons?i=vscode,clion,pychame,goland,webstorm)
 
 <br>
 
