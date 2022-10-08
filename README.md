@@ -5,9 +5,10 @@
 - Hi👋, I'm Yanbo.
   - 🏠 From a small county next to the Changbai Mountains.
   - 🏫 Now a student majoring in electronic engineering.
-  - 📱  A half-ass digital technology,
-  - 📷 Photography (I'm more interested in film lately),
-  - 🎈 Travel enthusiast.
+  - A half-ass 
+    - 📱 digital technology,
+    - 📷 Photography (I'm more interested in film lately),
+    - 🎈 Travel enthusiast.
 - 📧: Contact me: yanbotravelaroundworld@gmail.com
 - 💬 Be free to ask me about anything [here](https://github.com/yanboishere/yanboishere/issues).
 - 📫 If you want to send me a postcard,please click [this](https://yanboishere.github.io/post/my-postcard-exchange-items/)
