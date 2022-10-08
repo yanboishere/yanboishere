@@ -42,6 +42,15 @@
 
 ![Skills](https://skillicons.dev/icons?i=vscode,idea)
 
+
+**The Language which I was learning**
+
+![Skills](https://skillicons.dev/icons?i=cpp,swift)
+
+**The language I want to learn in the future**
+![Skills](https://skillicons.dev/icons?i=go,rust,js,css,html,vue)
+
+
 <br>
 
 If you like my projects, you can buy me a ☕ coffee  🍦 or 🍰 cake to support me.
