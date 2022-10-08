@@ -35,7 +35,7 @@
 
 **Languages and Frameworks**
 
-![Skills](https://skillicons.dev/icons?i=pr,ps,ae,github,cpp,html,css,py,md,git,linux,raspberrypi,swift)
+![Skills](https://skillicons.dev/icons?i=pr,ps,ae,github,cpp,py,md,git,linux,raspberrypi,swift)
 
 
 **Tools and Environments**
