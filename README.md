@@ -8,9 +8,9 @@
   - 📱  A half-ass digital technology,
   - 📷 Photography (I'm more interested in film lately),
   - 🎈 Travel enthusiast.
-- :mailbox_with_mail: Contact me: yanbotravelaroundworld@gmail.com
+- 📧: Contact me: yanbotravelaroundworld@gmail.com
 - 💬 Be free to ask me about anything [here](https://github.com/yanboishere/yanboishere/issues).
-- :mail: If you want to send me a postcard,please click [this](https://yanboishere.github.io/post/my-postcard-exchange-items/)
+- 📫 If you want to send me a postcard,please click [this](https://yanboishere.github.io/post/my-postcard-exchange-items/)
 
 ---
 </details>
