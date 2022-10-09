@@ -28,9 +28,7 @@
 
 <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yanboishere&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only">
 
-  
 <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?   username=yanboishere&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Top Langs" height="185px">
-
 
 ---
 </details>
@@ -39,16 +37,13 @@
 
 ![Skills](https://skillicons.dev/icons?i=pr,ps,ae,github,cpp,py,md,git,linux,raspberrypi)
 
-
 **Tools and Environments**
 
 ![Skills](https://skillicons.dev/icons?i=vscode,idea)
 
-
 **The Language which I was learning**
 
 ![Skills](https://skillicons.dev/icons?i=cpp,swift)
-
 
 **The language I want to learn in the future**
 
