@@ -27,8 +27,9 @@
 </details>
 
 <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yanboishere&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only">
+
   
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yanboishere&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Top Langs" height="185px">
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?   username=yanboishere&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Top Langs" height="185px">
 
 
 ---
@@ -56,7 +57,7 @@
 
 <br>
 
-If you like my projects, you can buy me a ☕ coffee  🍦 or 🍰 cake to support me.
+If you like my projects, you can buy me a ☕ coffee to support me.
 Click the button. 
 Your name will be shown at [https://yanboishere.github.io/](https://yanboishere.github.io/).
 
