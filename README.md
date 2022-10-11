@@ -43,11 +43,11 @@
 
 **The Language which I was learning**
 
-![Skills](https://skillicons.dev/icons?i=cpp,swift)
+![Skills](https://skillicons.dev/icons?i=c,cpp,swift)
 
 **The language I want to learn in the future**
 
-![Skills](https://skillicons.dev/icons?i=go,rust,js,css,html,vue)
+![Skills](https://skillicons.dev/icons?i=go,rust,ruby,js,css,html,vue)
 
 
 <br>
