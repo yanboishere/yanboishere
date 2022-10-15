@@ -50,13 +50,6 @@
 ![Skills](https://skillicons.dev/icons?i=go,rust,ruby,js,css,html,vue)
 
 
-<br>
 
-If you like my projects, you can buy me a ☕ coffee to support me.
-Click the button. 
-Your name will be shown at [https://yanboishere.github.io/](https://yanboishere.github.io/).
-
-<!--START_SECTION:sponsors-->
-<a href="https://www.buymeacoffee.com/yanbo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
