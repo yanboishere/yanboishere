@@ -43,9 +43,9 @@
 
 **The Language which I was learning**
 
-![Skills](https://skillicons.dev/icons?i=c,cpp,swift)
+![Skills](https://skillicons.dev/icons?i=c,cpp,py,swift)
 
-**The language I want to learn in the future**
+**The Language and FI want to learn in the future**
 
 ![Skills](https://skillicons.dev/icons?i=go,rust,ruby,js,css,html,vue)
 
