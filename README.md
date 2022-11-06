@@ -9,7 +9,8 @@
     - 📱 digital technology,
     - 📷 Photography (I'm more interested in film lately),
     - 🎈 Travel enthusiast.
-- 📧: Contact me: yanbotravelaroundworld@gmail.com
+- 🍔 Favour food:McDonald's double cheese burger.(Chinese mainland McDonald's 1+1 package is PERFECT)
+- 📧 Contact me: yanbotravelaroundworld@gmail.com
 - 💬 Be free to ask me about anything [here](https://github.com/yanboishere/yanboishere/issues).
 - 📫 If you want to send me a postcard,please click [this](https://yanboishere.github.io/post/my-postcard-exchange-items/)
 
