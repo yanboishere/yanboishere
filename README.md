@@ -15,7 +15,7 @@ Most foods that contain black pepper and McDonald's double cheese burger.<br>
   (Chinese mainland McDonald's 1+1 package is PERFECT！！！)
 - 🚲 Favour sport:Shifting bike.<br>
   
-  </details>
+</details>
   
 - 📧 Contact me: yanbotravelaroundworld@gmail.com
 - 💬 Be free to ask me about anything [here](https://github.com/yanboishere/yanboishere/issues).
