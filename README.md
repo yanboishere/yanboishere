@@ -13,7 +13,10 @@
 - 🍔 Favour food: 
 Most foods that contain black pepper and McDonald's double cheese burger.<br>
   (Chinese mainland McDonald's 1+1 package is PERFECT！！！)
-- 🚲 Favour sport:Shifting bike.
+- 🚲 Favour sport:Shifting bike.<br>
+  
+  </details>
+  
 - 📧 Contact me: yanbotravelaroundworld@gmail.com
 - 💬 Be free to ask me about anything [here](https://github.com/yanboishere/yanboishere/issues).
 - 📫 If you want to send me a postcard,please click [this](https://yanboishere.github.io/post/my-postcard-exchange-items/)
