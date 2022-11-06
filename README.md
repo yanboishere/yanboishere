@@ -3,6 +3,7 @@
 <!--my introduction start-->
 
 - Hi👋, I'm Yanbo.
+  - 💘 Single.
   - 🏠 From a small county next to the Changbai Mountains.
   - 🏫 Now a student majoring in electronic engineering.
   - A half-ass 
