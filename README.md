@@ -4,7 +4,7 @@
 
 - Hi👋, I'm Yanbo.
   - 💘 Single.
-  - 🏠 From a small county next to the Changbai Mountains.
+  - 🏠 From a small county next to the Changbai Mountains,Jilin,China.
   - 🏫 Now a student majoring in electronic engineering.
   - A half-ass 
     - 📱 digital technology,
