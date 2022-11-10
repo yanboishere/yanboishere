@@ -13,7 +13,7 @@
 - 🍔 Favour food: 
 Most foods that contain black pepper and McDonald's double cheese burger.<br>
   (Chinese mainland McDonald's 1+1 package is PERFECT！！！)
-- 🚲 Favour sport:Shifting bike.<br>
+- 🚲 Favour sport:Shifting bike(Sunshine day).<br>
   
 </details>
   
