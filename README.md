@@ -6,7 +6,7 @@
   - 💘 Single.
   - 🏠 From a small county next to the Changbai Mountains,Jilin,China.
   - 🏫 Now a student majoring in Electronic Engineering.
-  - A half-ass 
+  - A half-ass:
     - 📱 digital technology,
     - 📷 Photography (I'm more interested in film lately),
     - 🎈 Travel enthusiast.
