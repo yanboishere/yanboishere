@@ -39,7 +39,7 @@ Most foods that contain black pepper and McDonald's double cheese burger.<br>
   
   <br>
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?   username=yanboishere&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Top Langs" height="185px">
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/? username=yanboishere&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Top Langs" height="185px">
 
 ---
 </details>
