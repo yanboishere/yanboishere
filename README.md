@@ -46,7 +46,7 @@ Most foods that contain black pepper and McDonald's double cheese burger.<br>
 
 **Languages and Frameworks**
 
-![Skills](https://skillicons.dev/icons?i=pr,ps,ae,github,instagram,matlab,cpp,py,md,git,linux,raspberrypi)
+![Skills](https://skillicons.dev/icons?i=cpp,c,py,md,git,linux,raspberrypipr,ps,ae,github,instagram,matlab)
 
 **Tools and Environments**
 
@@ -54,11 +54,11 @@ Most foods that contain black pepper and McDonald's double cheese burger.<br>
 
 **The Language which I was learning**
 
-![Skills](https://skillicons.dev/icons?i=c,cpp,py,swift)
+![Skills](https://skillicons.dev/icons?i=c,cpp,py,go)
 
 **The Language and Framework I want to learn in the future**
 
-![Skills](https://skillicons.dev/icons?i=go,rust,ruby,js,css,html,vue)
+![Skills](https://skillicons.dev/icons?i=swift,rust,ruby,js,css,html,vue)
 
 
 
