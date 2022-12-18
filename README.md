@@ -14,7 +14,7 @@
 Most foods that contain black pepper and McDonald's double cheese burger.<br>
   (Chinese mainland McDonald's 1+1 package is PERFECT！！！)
 - 🚲 Favour sport:Shifting bike(Sunshine day).<br>
-- 🎸 Favour musicial: Sakanaction サカナクション
+- 🎸 Favour musicial: Sakanaction サカナクション 草东没有派对
   
 </details>
   
