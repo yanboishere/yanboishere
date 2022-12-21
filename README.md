@@ -3,10 +3,9 @@
 <!--my introduction start-->
 
 - Hi👋, I'm Yanbo.
-  - 💘 Single.
   - 🏠 From a small county next to the Changbai Mountains,Jilin,China.
   - 🏫 Now a student majoring in Electronic Engineering.
-  - A half-ass:
+  - A
     - 📱 digital technology,
     - 📷 Photography (I'm more interested in film lately),
     - 🎈 Travel enthusiast.
