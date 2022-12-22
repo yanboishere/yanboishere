@@ -6,7 +6,7 @@
   - 🏠 From a small county next to the Changbai Mountains,Jilin,China.
   - 🏫 Now a student majoring in Electronic Engineering.
   - A
-    - 📱 digital technology,
+    - 📱 Digital technology,
     - 📷 Photography (I'm more interested in film lately),
     - 🎈 Travel enthusiast.
 - 🍔 Favour food: 
