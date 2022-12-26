@@ -58,7 +58,7 @@ Most foods that contain black pepper and McDonald's double cheese burger.<br>
 
 **The Language and Framework I want to learn in the future**
 
-![Skills](https://skillicons.dev/icons?i=swift,rust,ruby)
+![Skills](https://skillicons.dev/icons?i=swift,rust,ruby，java)
 
 
 
