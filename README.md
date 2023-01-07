@@ -3,7 +3,7 @@
 <!--my introduction start-->
 
 - Hi👋, I'm Yanbo.
-  - 🏠 From a small county next to the Changbai Mountains,Jilin,China.
+  - 🏠 From a small county next to the [Changbai Mountains](https://en.wikipedia.org/wiki/Paektu_Mountain),Jilin,China.
   - 🏫 Now a student majoring in Electronic Engineering.
   - A
     - 📱 Digital technology,
