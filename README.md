@@ -13,7 +13,7 @@
 Most foods that contain black pepper and McDonald's double cheese burger.<br>
   (Chinese mainland McDonald's 1+1 package is PERFECT！！！)
 - 🚲 Favour sport:Shifting bike(Sunshine day).<br>
-- 🎸 Favour musicial: [Sakanaction サカナクション](https://en.wikipedia.org/wiki/Sakanaction) [草东没有派对](https://en.wikipedia.org/wiki/No_Party_for_Cao_Dong) John Lennon 汪峰 二手玫瑰乐队
+- 🎸 Favour musicial: [Sakanaction サカナクション](https://en.wikipedia.org/wiki/Sakanaction) [草东没有派对](https://en.wikipedia.org/wiki/No_Party_for_Cao_Dong) [John Lennon](https://en.wikipedia.org/wiki/John_Lennon) 汪峰 二手玫瑰乐队
 - 🎯 Future objectives:wlb@ 🗾 or North 🇪🇺.
   
 </details>
