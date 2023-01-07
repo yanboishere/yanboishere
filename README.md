@@ -4,7 +4,7 @@
 
 - Hi👋, I'm Yanbo.
   - 🏠 From a small county next to the [Changbai Mountains](https://en.wikipedia.org/wiki/Paektu_Mountain),Jilin,China.
-  - 🏫 Now a student majoring in Electronic Engineering.
+  - 🏫 Now a student majoring in [Electronic Engineering](https://en.wikipedia.org/wiki/Electronic_engineering).
   - A
     - 📱 Digital technology,
     - 📷 Photography (I'm more interested in film lately),
