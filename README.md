@@ -10,7 +10,7 @@
   - A
     - 📱 Digital technology,
     - 📷 Photography (I'm more interested in film lately),
-    - 🎈 Travel enthusiast.
+    - 🎈 Travel enthusiast.![神奇海螺 中国制霸](https://user-images.githubusercontent.com/76860915/211360061-21989983-3ead-43fd-a76b-3b751dd4cdd1.png)（The place I have been travel.）
 - 🍔 Favour food: 
 Most foods that contain black pepper and McDonald's double cheese burger.<br>
   (Chinese mainland McDonald's 1+1 package is PERFECT！！！)
