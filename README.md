@@ -6,7 +6,6 @@
 - Hi👋, I'm Yanbo.
   - 🏠 From a small county next to the [Changbai Mountains](https://en.wikipedia.org/wiki/Paektu_Mountain),[Jilin](https://en.wikipedia.org/wiki/Jilin),China.
   ![6a2668429dc9b9614f07d11d61a48a](https://user-images.githubusercontent.com/76860915/211357148-7ce5062f-13a4-4b1d-8897-d7796a2d6442.jpg)(Photographed on 2021.10.02)
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23717.46857795684!2d128.04735385751258!3d42.007066058575866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5e34aef33188fdbb%3A0x8a55a28d4c3986d5!2z5aSp5rGg!5e0!3m2!1szh-CN!2sfr!4v1673282905856!5m2!1szh-CN!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   - 🏫 Now a student majoring in [Electronic Engineering](https://en.wikipedia.org/wiki/Electronic_engineering).
   - A
     - 📱 Digital technology,
