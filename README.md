@@ -1,4 +1,4 @@
-![IMG_6414](https://user-images.githubusercontent.com/76860915/211356449-403b1dfa-235f-47db-a1e4-e2cf8188f17b.jpg)
+![Unknown](https://user-images.githubusercontent.com/76860915/211553600-d0447167-9ccf-4764-a7f7-274a0338508f.gif)
 # Hi, 👋  I'm <a href="https://yanboishere.github.io/" target="_blank">Yanbo  Wang (王 彦博)</a> <sup>
 
 <!--my introduction start-->
