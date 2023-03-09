@@ -7,7 +7,7 @@
   ![6a2668429dc9b9614f07d11d61a48a](https://user-images.githubusercontent.com/76860915/211357148-7ce5062f-13a4-4b1d-8897-d7796a2d6442.jpg)                     (Photographed on 2021.10.02 with my Canon 80D.<br>[Changbai Mountains Heaven Lake](https://en.wikipedia.org/wiki/Heaven_Lake),the highest volcanic lake in the world,262 kilometers away from my home.)
   - 🏫 Now a freshman year university student majoring in [Electronic Engineering](https://en.wikipedia.org/wiki/Electronic_engineering).
   - A
-    - ❤️ Web3 Lover-[Web3Club](https://github.com/Web3-Club) founder.
+    - **❤️ Web3 Lover-[Web3Club](https://github.com/Web3-Club) founder.**
     - 📱 Digital technology,
     - 📷 Photography (I'm more interested in film lately),
     - 🎈 Travel enthusiast.
