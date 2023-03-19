@@ -17,7 +17,8 @@ Most foods that contain black pepper and McDonald's double cheese burger.<br>
 - 🚲 Favour sport:Shifting bike.<br>
 - 🎸 Favour musicial: <br>[Sakanaction サカナクション](https://en.wikipedia.org/wiki/Sakanaction) <br>[草东没有派对](https://en.wikipedia.org/wiki/No_Party_for_Cao_Dong)<br> [John Lennon](https://en.wikipedia.org/wiki/John_Lennon) <br>[汪峰](https://en.wikipedia.org/wiki/Wang_Feng_(singer)) <br>[二手玫瑰乐队](https://en.wikipedia.org/wiki/Second_Hand_Rose_(band))
 - 🎯 [Future objectives](https://github.com/yanboishere/Future)
-  wlb@ 🗾 or North 🇪🇺.
+  wlb@ 🗾 or North 🇪🇺.<br>
+  Best：Economic independence
   
 </details>
   
