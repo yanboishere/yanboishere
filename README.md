@@ -25,7 +25,7 @@ Most foods that contain black pepper and McDonald's double cheese burger.<br>
 - 📧 Contact me: yanbowang@email.cn
 - 💬 Be free to ask me about anything [here](https://github.com/yanboishere/yanboishere/issues).
 - 📫 If you want to send me a postcard,please click [this](https://yanboishere.github.io/post/my-postcard-exchange-items/).
-- ☕ If you want to Buy me and **Web3Club** a coffee,please transfer to this wallet with ETH: **0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb.**
+- ☕ If you want to Buy me and **Web3Club** a coffee,please transfer to this wallet: **0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb.**
 - Account：   
   - [Linkedin](https://www.linkedin.com/in/yanbowang2004/)
   - [Linktree - Twitter,Telegram,Bilibili,Instagram,YouTube,Facebook](https://linktr.ee/yanbowang)
