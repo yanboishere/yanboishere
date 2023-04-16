@@ -46,21 +46,5 @@ Most foods that contain black pepper and McDonald's double cheese burger.<br>
 <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yanboishere&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only">
   
 
-  
-**Languages and Frameworks**
-
-![Skills](https://skillicons.dev/icons?i=github,cpp,py,md,git,linux,raspberrypi,pr,instagram)
-
-**Tools and Environments**
-
-![Skills](https://skillicons.dev/icons?i=vscode,idea)
-
-**The Language which I was learning**
-
-![Skills](https://skillicons.dev/icons?i=c,cpp,py,go,html,js,css,vue,nodejs,ts)
-
-**The Language and Framework I want to learn in the future**
-
-![Skills](https://skillicons.dev/icons?i=swift,rust,ruby,java)
 
   
