@@ -24,11 +24,11 @@ My future objectives include achieving economic independence and perhaps moving 
 
 If you're interested in learning more about me, please feel free to check out my 
 
-[Linkedin](https://www.linkedin.com/in/yanbowang2004/) 
+## [Linkedin](https://www.linkedin.com/in/yanbowang2004/) 
 
 or other social media accounts listed on my 
 
-[Linktree](https://linktr.ee/yanbowang). 
+## [Linktree](https://linktr.ee/yanbowang). 
 
 You can also contact me through email or leave a message on my [GitHub issues page](https://github.com/yanboishere/yanboishere/issues).
 
