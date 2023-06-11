@@ -39,9 +39,7 @@ Thank you for visiting, and I hope you have a great day!
 I kept most of your original content and reorganized it to create a clearer and more streamlined introduction. Let me know if you have any further suggestions or if there's anything else I can help with!
 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?yanboishere=Harlok)](https://github.com/anuraghazra/github-readme-stats)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/yanboishere=anuraghazra&hide_progress=true)
 
 
 
