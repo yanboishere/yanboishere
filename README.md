@@ -41,6 +41,9 @@ I kept most of your original content and reorganized it to create a clearer and 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanboishere&layout=compact)
 
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanboishere)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
