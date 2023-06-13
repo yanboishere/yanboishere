@@ -50,7 +50,6 @@ Thank you for visiting, and I hope you have a great day!
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanboishere)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
