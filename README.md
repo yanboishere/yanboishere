@@ -112,4 +112,4 @@ Old Version of README.md : [2021-2023.5 Ver.](https://github.com/yanboishere/yan
 ---
 
 
-I stand with <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
+I stand by <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
