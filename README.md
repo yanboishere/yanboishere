@@ -119,3 +119,7 @@ I stand by <a href="https://996.icu"><img src="https://img.shields.io/badge/link
 #### Article 36:
 
 > The State shall practice a working hour system wherein labourers shall work for no more than eight hours a day and no more than 44 hours a week on the average.
+
+**Developers' lives matter.**
+
+To make this true,I will stand by with all the people who **Did not enjoy the due working hours and benefits stipulated in the policies mentioned in the national laws.**
