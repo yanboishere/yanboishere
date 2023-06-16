@@ -113,3 +113,9 @@ Old Version of README.md : [2021-2023.5 Ver.](https://github.com/yanboishere/yan
 
 
 I stand by <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
+
+
+### Labour Law of the People's Republic of China
+#### Article 36:
+
+> The State shall practice a working hour system wherein labourers shall work for no more than eight hours a day and no more than 44 hours a week on the average.
