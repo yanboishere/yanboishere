@@ -1,6 +1,8 @@
 ## Hi there! 👋
 
-My name is Yanbo Wang (王彦博), and I'm a freshman university student majoring in Electronic Engineering. 
+My name is Yanbo Wang (王彦博).
+
+I'm a freshman university student majoring in Electronic Engineering. 
 
 I come from a small county near the Changbai Mountains in China, where I've developed a passion for digital technology, photography (especially film), and travel.
 
