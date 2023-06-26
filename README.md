@@ -127,3 +127,23 @@ I stand by <a href="https://996.icu"><img src="https://img.shields.io/badge/link
 To make this true,I will stand by with all the people who **Did not enjoy the due working hours and benefits stipulated in the policies mentioned in the national laws.** 
 
 Seek for their due physical health and interests.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
