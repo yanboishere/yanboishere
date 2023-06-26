@@ -112,21 +112,9 @@ Thank you for visiting, and I hope you have a great day!
 Old Version of README.md : [2021-2023.5 Ver.](https://github.com/yanboishere/yanboishere/blob/master/README_old.md)
 
 ---
+ <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
 
 
-I stand by <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
-
-
-### Labour Law of the People's Republic of China
-#### Article 36:
-
-> The State shall practice a working hour system wherein labourers shall work for no more than eight hours a day and no more than 44 hours a week on the average.
-
-**Developers' lives matter.**
-
-To make this true,I will stand by with all the people who **Did not enjoy the due working hours and benefits stipulated in the policies mentioned in the national laws.** 
-
-Seek for their due physical health and interests.
 
 
 
