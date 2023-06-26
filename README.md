@@ -6,7 +6,7 @@ I'm a freshman university student majoring in Electronic Engineering.
 
 I come from a small county near the Changbai Mountains in China, where I've developed a passion for digital technology, photography (especially film), and travel.
 
-In addition to my academic interests, I'm also the founder of Web3Club and JLUBA(JiLin-Universities-Blockchain-Alliance), a community dedicated to promoting Web3 and blockchain technology，
+In addition to my academic interests, I'm also the founder of [Web3Club](https://github.com/Web3-Club/) and JLUBA(JiLin-Universities-Blockchain-Alliance), a community dedicated to promoting Web3 and blockchain technology，
 
 and a union of students who study blockchain at universities in JiLin Province,China.
 
