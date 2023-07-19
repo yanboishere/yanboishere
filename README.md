@@ -111,8 +111,6 @@ Thank you for visiting, and I hope you have a great day!
 
 Old Version of README.md : [2021-2023.5 Ver.](https://github.com/yanboishere/yanboishere/blob/master/README_old.md)
 
----
- <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
 
 
 
