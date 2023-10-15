@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-My name is Yanbo Wang (王彦博).
+My name is **Yanbo**.
 
 I'm a freshman university student majoring in Electronic Engineering. 
 
