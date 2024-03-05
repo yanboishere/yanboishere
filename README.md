@@ -36,18 +36,6 @@ or other social media accounts listed on my
 
 #### [Linktree](https://linktr.ee/yanbowang). 
 
-You can also contact me through email or leave a message on my [GitHub issues page](https://github.com/yanboishere/yanboishere/issues).
-
----
-
-You can also support me and Web3Club by buying me a coffee at this wallet address:
-
-🪙Bitcoin: **bc1q32mjead3kg0lx25yy9mcy9m8845zatvhcfvj92**
-
-🪙Ethereum: **0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb**
-
-Thank you for visiting, and I hope you have a great day!
-
 ---
 
 
