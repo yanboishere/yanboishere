@@ -22,18 +22,6 @@ like McDonald's double cheeseburgers (Chinese mainland McDonald's 1+1 package is
 
 I also enjoy cycling and listening to music by artists like **Sakanaction, 草东没有派对, John Lennon, 汪峰, 痛仰乐队 and 二手玫瑰乐队.**
 
-
----
-
-
-If you're interested in learning more about me, please feel free to check out my 
-
-#### [Linkedin](https://www.linkedin.com/in/yanbowang2004/) 
-
-or other social media accounts listed on my 
-
-#### [Linktree](https://linktr.ee/yanbowang). 
-
 ---
 
 
