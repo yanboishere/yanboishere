@@ -9,8 +9,10 @@
     - [Donate3](https://donate3.xyz)
     - [MyFirstWeb3](https://layer2.myfirst.io/)
   - [Social Layer](https://www.sociallayer.im/)
-- ex DevRel of
+- ex. DevRel of
   - [BitLayer](https://www.bitlayer.org/) 
 
+---
 
+Now I'm working hard to graduate from college and learn Solidity.
 
