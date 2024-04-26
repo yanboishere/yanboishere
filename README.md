@@ -2,6 +2,7 @@
 
 - Student majoy in Electonic Engineer.
 - Founder of [Web3-Club](https://github.com/Web3-Club)
+  ---
 - Product Manager of
   - [LXDAO](https://lxdao.io/)
     - [Donate3](https://donate3.xyz)
