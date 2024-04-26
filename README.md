@@ -2,7 +2,8 @@
 
 - Student majoy in Electonic Engineer.
 - Founder of [Web3-Club](https://github.com/Web3-Club)
-
+- Product Manager of [Donate3](https://donate3.xyz) & [Social Layer](https://www.sociallayer.im/)
+- 
 
 
 
