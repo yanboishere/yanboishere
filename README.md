@@ -1,6 +1,7 @@
 ## Hi 👋 Yanbo here.
 
 - Sophomore student majoy in Electonic Engineer.
+- Web3 Builder
 - Founder of [Web3-Club](https://github.com/Web3-Club)
   
   ---
