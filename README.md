@@ -28,5 +28,11 @@
 
 ---
 
+
+![Skills](https://skillicons.dev/icons?i=apple,c,clion,arduino,cloudflare,discord,figma,github,gmail,html,instagram,linux,linkedin,md,notion,pycharm,raspberrypi,sublime,twitter,ubuntu,vscode,webstorm)
+
+
+---
+
 Now I'm working hard to graduate from college and learn Solidity.
 
