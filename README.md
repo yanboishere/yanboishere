@@ -54,5 +54,5 @@
 
 ---
 
-Now I'm working hard to graduate from college and learn **Solidity**.
+Now I'm working hard to graduate from college and learning **Solidity**.
 
