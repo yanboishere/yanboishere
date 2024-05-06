@@ -52,6 +52,10 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yanboishere&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Top Langs" height="185px">
 </a>
 
+---
+
+Profile Counter (From 2023.05.06)
+
 ![](https://profile-counter.glitch.me/yanboishere/count.svg)
 
 ---
