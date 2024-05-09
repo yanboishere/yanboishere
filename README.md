@@ -35,7 +35,7 @@
     - [Donate3](https://donate3.xyz)
       - Donate3 is a web3 donation tool. It enables public goods and creators to set up donations in just 5 minutes.
     - [MyFirstWeb3](https://layer2.myfirst.io/)
-      -   
+      - The educational nonprofit product sponser by Ethereum Foundation.
   - [Social Layer](https://www.sociallayer.im/)
     - Modular Social Infrastructures for Decentralized Future.
  
