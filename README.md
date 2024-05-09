@@ -33,8 +33,11 @@
 - Product Manager of
   - [LXDAO](https://lxdao.io/)
     - [Donate3](https://donate3.xyz)
+      - 
     - [MyFirstWeb3](https://layer2.myfirst.io/)
+      -   
   - [Social Layer](https://www.sociallayer.im/)
+    - Modular Social Infrastructures for Decentralized Future.
  
 ---
 Subscribe me
