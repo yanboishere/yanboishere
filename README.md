@@ -23,8 +23,7 @@
   
   ---
   
-- ex. DevRel of
-  - [BitLayer](https://www.bitlayer.org/) 
+- ex. DevRel of [BitLayer](https://www.bitlayer.org/) 
 
 - Product Manager of
   - [LXDAO](https://lxdao.io/)
