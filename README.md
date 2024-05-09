@@ -23,7 +23,8 @@
   
   ---
   
-- ex. DevRel of [BitLayer](https://www.bitlayer.org/) 
+- ex. DevRel of [BitLayer](https://www.bitlayer.org/)
+  - The first Bitcoin security-equivalent Layer 2 based on the BitVM paradigm.
 
 - Product Manager of
   - [LXDAO](https://lxdao.io/)
