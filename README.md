@@ -23,7 +23,7 @@
   - [Web3-Club](https://github.com/Web3-Club)
     - Freedom & Opensource Chinese Web3 Community.
   - [JLUBA]()
-    - Online Blockchain Commuity in Jilin Province,China.
+    - Online Universities Blockchain Commuity in Jilin Province,China.
   
   ---
   
