@@ -22,7 +22,7 @@
 - ⛏️ Founder of
   - [Web3-Club](https://github.com/Web3-Club)
     - Freedom & Opensource Chinese Web3 Community.
-  - [JLUBA]()
+  - [JLUBA](https://x.com/JLUBA2023)
     - Online Universities Blockchain Commuity in Jilin Province,China.
   
   ---
