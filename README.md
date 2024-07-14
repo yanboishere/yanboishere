@@ -1,9 +1,3 @@
-![mona-loading-default](https://github.com/user-attachments/assets/fd1fe0cf-c944-4c3c-a780-15ea6d805501)
-
-
-
----
-
 ## Hi 👋 Yanbo here.
 
 
