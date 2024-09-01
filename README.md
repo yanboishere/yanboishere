@@ -29,7 +29,7 @@
   
   ---
   
-- ex. DevRel of [BitLayer](https://www.bitlayer.org/)
+- prev. DevRel of [BitLayer](https://www.bitlayer.org/)
   - The first Bitcoin security-equivalent Layer 2 based on the BitVM paradigm.
 
 - Product Manager of
