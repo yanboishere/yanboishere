@@ -77,7 +77,7 @@ Profile Counter (From 2024.05.06)
 ---
 
 ### Now 
-I'm working hard to graduate from college and learning **[frontend](https://github.com/yanboishere/Web-learning)**，**Solidity**.
+I'm working hard to learning **[frontend](https://github.com/yanboishere/Web-learning)**，**Solidity**.
 
 
 
