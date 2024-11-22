@@ -26,8 +26,10 @@
     - Fuel Chinese developer community incubated by Web3Club and independently initiated.
   
   ---
-  
-- prev. DevRel of [BitLayer](https://www.bitlayer.org/)
+
+- Operation `Developer Ecosystem Business Development / Develop Relations` in [UXUY](https://uxuy.com/)
+
+- prev. `DevRel` of [BitLayer](https://www.bitlayer.org/)
   - The first Bitcoin security-equivalent Layer 2 based on the BitVM paradigm.
 
 - Product Manager of
