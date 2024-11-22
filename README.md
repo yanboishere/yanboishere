@@ -17,7 +17,7 @@
                                                                   
 
 - 💻 Web3 Builder
-- Operation `Developer Ecosystem Business Development` in [UXUY](https://uxuy.com/) now.
+- 🧑‍💻 Operation `Developer Ecosystem Business Development` in [UXUY](https://uxuy.com/) now.
 - ⛏️ Founder of
   - [Web3-Club](https://github.com/Web3-Club)
     - Freedom & Opensource Chinese Web3 Community.
