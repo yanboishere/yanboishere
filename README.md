@@ -17,6 +17,7 @@
                                                                   
 
 - 💻 Web3 Builder
+- - Operation `Developer Ecosystem Business Development / Develop Relations` in [UXUY](https://uxuy.com/) now.
 - ⛏️ Founder of
   - [Web3-Club](https://github.com/Web3-Club)
     - Freedom & Opensource Chinese Web3 Community.
@@ -26,8 +27,6 @@
     - Fuel Chinese developer community incubated by Web3Club and independently initiated.
   
   ---
-
-- Operation `Developer Ecosystem Business Development / Develop Relations` in [UXUY](https://uxuy.com/)
 
 - prev. `DevRel` of [BitLayer](https://www.bitlayer.org/)
   - The first Bitcoin security-equivalent Layer 2 based on the BitVM paradigm.
