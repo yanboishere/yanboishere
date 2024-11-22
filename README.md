@@ -17,8 +17,6 @@
                                                                   
 
 - 💻 Web3 Builder
-- 🇨🇳 Sophomore student majoy in Electonic Engineer.
-- 🗺️ Now studing in Jilin Province,China Mainland.
 - ⛏️ Founder of
   - [Web3-Club](https://github.com/Web3-Club)
     - Freedom & Opensource Chinese Web3 Community.
