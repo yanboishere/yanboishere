@@ -14,7 +14,7 @@
 
 
   ---
-                                                                  
+## About myself                                                                  
 
 - 💻 Web3 Builder
 - 🧑‍💻 Operation `Developer Ecosystem Business Development` in [UXUY](https://uxuy.com/) now.
@@ -28,11 +28,13 @@
     - Fuel Chinese developer community incubated by Web3Club and independently initiated.
   
   ---
-
+## Works
+- Unemployed, looking for front-end and developer relations positions.
+  ---
 - prev. `DevRel` of [BitLayer](https://www.bitlayer.org/)
   - The first Bitcoin security-equivalent Layer 2 based on the BitVM paradigm.
 
-- Product Manager of
+- Product Manager & Bussiness Developer of
   - [LXDAO](https://lxdao.io/)
     - [Donate3](https://donate3.xyz)
       - Donate3 is a web3 donation tool. It enables public goods and creators to set up donations in just 5 minutes.
