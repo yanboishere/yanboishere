@@ -12,7 +12,7 @@
 ## About myself                                                                  
 
 - 💻 Web3 Builder
-- 🧑‍💻 Operation `Developer Ecosystem Business Development` in [UXUY](https://uxuy.com/) now.
+- 🧑‍💻 Operation `Developer Ecosystem Business Development` in [UXUY](https://uxuy.com/).
   - [UXUY Wallet](https://t.me/UXUYbot) is the first multi-chain wallet on Telegram.
 - ⛏️ Founder of
   - [Web3-Club](https://github.com/Web3-Club)
