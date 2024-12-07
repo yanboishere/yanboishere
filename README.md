@@ -23,7 +23,7 @@
     - Fuel Chinese developer community incubated by Web3Club and independently initiated.
   
   ---
-## Works
+## About My Work
 - Unemployed, looking for front-end and developer relations positions.
   ---
 - prev. `DevRel` of [BitLayer](https://www.bitlayer.org/)
@@ -39,11 +39,14 @@
     - Modular Social Infrastructures for Decentralized Future.
  
 ---
+## Social Media
 Subscribe me with X.
 
 [![Twitter](https://img.shields.io/badge/@YanboOfficial-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YanboOfficial)
 
 ---
+
+## My Skill
 
 
 ![Skills](https://skillicons.dev/icons?i=apple,c,clion,arduino,cloudflare,discord,figma,github,gmail,html,instagram,linux,linkedin,md,notion,pycharm,raspberrypi,sublime,twitter,ubuntu,vscode,webstorm)
@@ -73,13 +76,9 @@ Profile Counter (From 2024.05.06)
 
 ---
 
-### Now 
-I'm working hard to learning **[frontend](https://github.com/yanboishere/Web-learning)**，**Solidity**.
+## Now 
+I'm taking a leave of absence from university,and working hard to learning **[frontend](https://github.com/yanboishere/Web-learning)**，**Solidity**,looking for front-end and developer relations positions.
 
-
-
-
-
-### My life
+## My life
 Just do it.
 
