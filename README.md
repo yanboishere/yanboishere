@@ -15,12 +15,17 @@
 - 🧑‍💻 Operation `Developer Ecosystem Business Development` in [UXUY](https://uxuy.com/).
   - [UXUY Wallet](https://t.me/UXUYbot) is the first multi-chain wallet on Telegram.
 - ⛏️ Founder of
-  - [Web3-Club](https://github.com/Web3-Club)
-    - Freedom & Opensource Chinese Web3 Community.
-  - [JLUBA](https://x.com/JLUBA2023)
-    - Online Universities Blockchain Commuity in Jilin Province,China.
-  - [FuelDevCN](https://github.com/FuelDevCN)
-    - Fuel Chinese developer community incubated by Web3Club and independently initiated.
+  - Startup
+    - [WorkWork](https://www.linkedin.com/company/workworkweb3/) 
+  - Community
+    - [Web3-Club](https://github.com/Web3-Club)
+      - Freedom & Opensource Chinese Web3 Community.
+    - [JLUBA](https://x.com/JLUBA2023)
+      - Online Universities Blockchain Commuity in Jilin Province,China.
+    - [FuelDevCN](https://github.com/FuelDevCN)
+      - Fuel Chinese developer community incubated by Web3Club and independently initiated.
+   
+  
   
   ---
 ## About My Work
