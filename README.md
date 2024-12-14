@@ -16,7 +16,8 @@
   - [UXUY Wallet](https://t.me/UXUYbot) is the first multi-chain wallet on Telegram.
 - ⛏️ Founder of
   - Startup
-    - [WorkWork](https://www.linkedin.com/company/workworkweb3/) 
+    - [WorkWork](https://www.linkedin.com/company/workworkweb3/)
+      - A workplace community and job search platform for Web3 workers, helping them expand their network, communicate and cooperate, find jobs and gain more opportunities. 
   - Community
     - [Web3-Club](https://github.com/Web3-Club)
       - Freedom & Opensource Chinese Web3 Community.
