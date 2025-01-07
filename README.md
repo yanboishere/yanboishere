@@ -30,7 +30,7 @@
   
   ---
 ## About My Work
-- Unemployed, looking for front-end and developer relations positions.
+- Unemployed, looking for developer relations positions.
   ---
 - prev. `DevRel` of [BitLayer](https://www.bitlayer.org/)
   - The first Bitcoin security-equivalent Layer 2 based on the BitVM paradigm.
