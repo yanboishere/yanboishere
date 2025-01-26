@@ -12,8 +12,6 @@
 ## About myself                                                                  
 
 - 💻 Web3 Builder
-- 🧑‍💻 Operation `Developer Ecosystem Business Development` in [UXUY](https://uxuy.com/).
-  - [UXUY Wallet](https://t.me/UXUYbot) is the first multi-chain wallet on Telegram.
 - ⛏️ Founder of
   - Startup
     - [WorkWork](https://www.linkedin.com/company/workworkweb3/)
@@ -32,8 +30,10 @@
 ## About My Work
 - Unemployed, looking for developer relations positions.
   ---
-- prev. `DevRel` of [BitLayer](https://www.bitlayer.org/)
+- prev. `Develop Relations` of [BitLayer](https://www.bitlayer.org/)
   - The first Bitcoin security-equivalent Layer 2 based on the BitVM paradigm.
+- prev. `Developer Ecosystem Business Development` of [UXUY](https://uxuy.com/).
+  - [UXUY Wallet](https://t.me/UXUYbot) is the first multi-chain wallet on Telegram.
 
 - Product Manager & Bussiness Developer of
   - [LXDAO](https://lxdao.io/)
