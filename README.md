@@ -23,8 +23,10 @@
       - Online Universities Blockchain Commuity in Jilin Province,China.
          - **The official Twitter account has been frozen due to illegal forwarding and violation of rules and other force majeure**
 
-    - [FuelDevCN](https://github.com/FuelDevCN)
-      - Fuel Chinese developer community incubated by Web3Club and independently initiated.
+    ~~- [FuelDevCN](https://github.com/FuelDevCN)~~
+    
+      ~~- Fuel Chinese developer community incubated by Web3Club and independently initiated.~~
+    - **Because Fuel officials neither support nor deny our Chinese community, it exists in name only.**
    
   
   
