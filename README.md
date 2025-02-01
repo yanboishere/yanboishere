@@ -12,7 +12,10 @@
 ## About myself                                                                  
 
 - 💻 Web3 Builder
-- ⛏️ Founder of
+- ⛏️ Founder
+
+  of
+  
   - Startup
     - [WorkWork](https://www.linkedin.com/company/workworkweb3/)
       - A workplace community and job search platform for Web3 workers, helping them expand their network, communicate and cooperate, find jobs and gain more opportunities. 
