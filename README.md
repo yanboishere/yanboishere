@@ -29,9 +29,7 @@
     ~~- [FuelDevCN](https://github.com/FuelDevCN)~~
     
       ~~- Fuel Chinese developer community incubated by Web3Club and independently initiated.~~
-    - **Because Fuel officials neither support nor deny our Chinese community, it exists in name only.**
-   
-  
+
   
   ---
 ## About My Work
