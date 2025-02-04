@@ -37,24 +37,23 @@
 ## About My Work
 - Unemployed, looking for developer relations positions.
   ---
+<details>
+<summary>Public Good</summary>
+  
+- [LXDAO](https://lxdao.io/)  
+  - [Donate3](https://donate3.xyz)      
+    - Donate3 is a web3 donation tool. It enables public goods and creators to set up donations in just 5 minutes.    
+  - [MyFirstWeb3](https://layer2.myfirst.io/)  
+    - The educational nonprofit product sponser by Ethereum Foundation.   
+- [Social Layer](https://www.sociallayer.im/)  
+  - Modular Social Infrastructures for Decentralized Future.
+  
+</details>
+    
 - prev. `Develop Relations` of [BitLayer](https://www.bitlayer.org/)
   - The first Bitcoin security-equivalent Layer 2 based on the BitVM paradigm.
 - prev. `Developer Ecosystem Business Development` of [UXUY](https://uxuy.com/).
   - [UXUY Wallet](https://t.me/UXUYbot) is the first multi-chain wallet on Telegram.
-  
-    
-      ~~- Product Manager & Bussiness Developer of~~  
-        ~~- [LXDAO](https://lxdao.io/)~~  
-          ~~- [Donate3](https://donate3.xyz)~~  
-            ~~- Donate3 is a web3 donation tool. It enables public goods and creators to set up donations in just 5 minutes.~~  
-          ~~- [MyFirstWeb3](https://layer2.myfirst.io/)~~  
-            ~~- The educational nonprofit product sponser by Ethereum Foundation.~~  
-        ~~- [Social Layer](https://www.sociallayer.im/)~~  
-          ~~- Modular Social Infrastructures for Decentralized Future.~~  
-    
- **I used to be a fan and innovator of public goods applications, but not anymore.**
-
-
  
 ---
 ## Social Media
@@ -66,9 +65,7 @@ Subscribe me with X.
 
 ## My Skill
 
-
 ![Skills](https://skillicons.dev/icons?i=apple,c,clion,arduino,cloudflare,discord,figma,github,gmail,html,instagram,linux,linkedin,md,notion,pycharm,raspberrypi,sublime,twitter,ubuntu,vscode,webstorm)
-
 
 ---
 
