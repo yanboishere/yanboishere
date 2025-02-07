@@ -26,8 +26,6 @@
     - [FuelDevCN](https://github.com/FuelDevCN)
     
       - Fuel Chinese developer community incubated by Web3Club and independently initiated.
-
-  
   ---
 ## About My Work
 - Unemployed, looking for developer relations positions.
