@@ -47,7 +47,7 @@
 
 
 <details>
-<summary>Prev.</summary>
+<summary>Prev. Jobs</summary>
     
   -  `Develop Relations` of [BitLayer](https://www.bitlayer.org/)  
     -  The first Bitcoin security-equivalent Layer 2 based on the BitVM paradigm.  
