@@ -44,11 +44,16 @@
   - Modular Social Infrastructures for Decentralized Future.
   
 </details>
+
+
+<details>
+<summary>Prev.</summary>
     
-- prev. `Develop Relations` of [BitLayer](https://www.bitlayer.org/)
-  - The first Bitcoin security-equivalent Layer 2 based on the BitVM paradigm.
-- prev. `Developer Ecosystem Business Development` of [UXUY](https://uxuy.com/).
-  - [UXUY Wallet](https://t.me/UXUYbot) is the first multi-chain wallet on Telegram.
+  -  `Develop Relations` of [BitLayer](https://www.bitlayer.org/)  
+    -  The first Bitcoin security-equivalent Layer 2 based on the BitVM paradigm.  
+  -  `Developer Ecosystem Business Development` of [UXUY](https://uxuy.com/).  
+    -  [UXUY Wallet](https://t.me/UXUYbot) is the first multi-chain wallet on Telegram.  
+</details>
  
 ---
 ## Social Media
