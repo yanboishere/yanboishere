@@ -10,7 +10,7 @@
                      \$$    \$$$$$$$ \$$   \$$ \$$$$$$$   \$$$$$$ 
   ---
 ## About myself                                                                  
-### Video
+### Interviews Video
 [He dropped out of school at the age of 20 and traveled to 9 countries, and even found a remote job? The brave ones enjoy the world first!](https://www.bilibili.com/video/BV1fgySYsErh?vd_source=86a032a2de4a00e60764f0a49a2e153e)
 - 💻 Web3 Builder
 - ⛏️ Founder of
