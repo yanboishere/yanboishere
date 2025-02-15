@@ -91,7 +91,7 @@ Profile Counter (From 2024.05.06)
 ---
 
 ## Now 
-I'm taking a leave of absence from university,focus on entrepreneurial projectsand [WorkWork](https://github.com/WorkWorkWeb3)，also working hard to learning **[frontend](https://github.com/yanboishere/Web-learning)**，**Solidity**,looking for developer relations positions.
+I'm taking a leave of absence from university,focus on entrepreneurial projectsand [WorkWork](https://github.com/WorkWorkWeb3)，also working hard to learning **[frontend](https://github.com/yanboishere/Web-learning)**，**Solidity**,looking for **developer relations** positions.
 
 ## My life
 **Just do it.**
