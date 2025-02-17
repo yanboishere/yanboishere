@@ -89,6 +89,8 @@ Profile Counter (From 2024.05.06)
 ![](https://profile-counter.glitch.me/yanboishere/count.svg)
 
 ---
+## NFT （beta）
+![NFT Badge](https://github-nft-fawn.vercel.app/api/nft-badge?address=0xbbc1fe874422f61fb135e72c3229fffc3cb266fb)
 
 ## Now 
 I'm taking a leave of absence from university,focus on entrepreneurial projectsand [WorkWork](https://github.com/WorkWorkWeb3)，also working hard to learning **[frontend](https://github.com/yanboishere/Web-learning)**，**Solidity**,looking for **developer relations** positions.
