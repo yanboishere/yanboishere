@@ -97,4 +97,3 @@ I'm taking a leave of absence from university,focus on entrepreneurial projectsa
 
 ## My life
 **Just do it.**
-
