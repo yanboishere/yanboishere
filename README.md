@@ -13,11 +13,6 @@
       - Freedom & Opensource Chinese Web3 Community.
     - [JLUBA](https://x.com/JLUBA2023)
       - Online Universities Blockchain Commuity in Jilin Province,China.
-         - **The official Twitter account has been frozen due to illegal forwarding and violation of rules and other force majeure**
-
-    - [FuelDevCN](https://github.com/FuelDevCN)
-    
-      - Fuel Chinese developer community incubated by Web3Club and independently initiated.
   ---
 ## About My Work
 - ~~Unemployed, looking for developer relations positions.~~
