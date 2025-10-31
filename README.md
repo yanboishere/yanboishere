@@ -8,7 +8,7 @@
   - Startup
     - [WorkWork](https://www.linkedin.com/company/workworkweb3/)
       - **Work everywhere,Work anytime.**
-      - Super APP for Digital Nomads & Super Individuals.
+      - For Digital Nomads & Super Individuals.
   - Community
     - [Web3-Club](https://github.com/Web3-Club)
       - Freedom & Opensource Chinese Web3 Community.
