@@ -3,19 +3,19 @@
 ## About myself                                                                  
 ### My Interviews Video
 [He dropped out of school at the age of 20 and traveled to 9 countries, and even found a remote job? The brave ones enjoy the world first!](https://www.bilibili.com/video/BV1fgySYsErh?vd_source=86a032a2de4a00e60764f0a49a2e153e)
-- 💻 Web3 Builder
-- ⛏️ Founder of
-  - Startup
-    - [WorkWork](https://www.linkedin.com/company/workworkweb3/)
-      - **Work everywhere,Work anytime.**
-      - For Digital Nomads & Super Individuals.
-  - Community
-    - [Web3-Club](https://github.com/Web3-Club)
-      - Freedom & Opensource Chinese Web3 Community.
-    - [JLUBA](https://x.com/JLUBA2023)
-      - Online Universities Blockchain Commuity in Jilin Province,China.
+
+
+## Startup
+- [WorkWork](https://www.linkedin.com/company/workworkweb3/)
+  - **Work everywhere,Work anytime.**
+  - For Digital Nomads & Super Individuals.
+## Community
+  - [Web3-Club](https://github.com/Web3-Club)
+    - Freedom & Opensource Chinese Web3 Community.
+  - [JLUBA](https://x.com/JLUBA2023)
+    - Online Universities Blockchain Commuity in Jilin Province,China.
   ---
-## About My Work
+## prev. Work
 - ~~Unemployed, looking for developer relations positions.~~
   ---
 <details>
