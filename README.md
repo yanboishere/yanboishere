@@ -73,7 +73,8 @@ Subscribe me with X.
 
 Profile Counter (From 2024.05.06)
 
-![](https://profile-counter.glitch.me/yanboishere/count.svg)
+![Profile Counter](https://profile-counter.glitch.me/yanboishere/count.svg)
+
 
 ---
 ## NFT （beta）
