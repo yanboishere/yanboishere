@@ -15,7 +15,7 @@
   - [JLUBA](https://x.com/JLUBA2023)
     - Online Universities Blockchain Commuity in Jilin Province,China.
   ---
-## prev. Work
+## Prev. Work
 - ~~Unemployed, looking for developer relations positions.~~
   ---
 <details>
