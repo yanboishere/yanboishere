@@ -16,7 +16,7 @@
     - Online Universities Blockchain Commuity in Jilin Province,China.
   ---
 ## Prev. Work
-- ~~Unemployed, looking for developer relations positions.~~
+- Unemployed, looking for developer relations positions.
   ---
 <details>
 <summary>Public Good</summary>
