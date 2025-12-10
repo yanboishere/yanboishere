@@ -19,7 +19,8 @@
 - Unemployed, looking for developer relations positions.
   ---
 <details>
-<summary>Public Good</summary>
+
+## Public Good
   
 - [LXDAO](https://lxdao.io/)  
   - [Donate3](https://donate3.xyz)      
