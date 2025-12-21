@@ -8,7 +8,6 @@
 ## Startup
 - [WorkWork](https://www.linkedin.com/company/workworkweb3/)
   - **Work everywhere,Work anytime.**
-  - For Digital Nomads & Super Individuals.
 ## Community
   - [Web3-Club](https://github.com/Web3-Club)
     - Freedom & Opensource Chinese Web3 Community.
@@ -18,9 +17,9 @@
 ## Prev. Work
 - Unemployed, looking for developer relations positions.
   ---
-<details>
 
-## Public Good
+
+### Public Good
   
 - [LXDAO](https://lxdao.io/)  
   - [Donate3](https://donate3.xyz)      
@@ -30,7 +29,6 @@
 - [Social Layer](https://www.sociallayer.im/)  
   - Modular Social Infrastructures for Decentralized Future.
   
-</details>
 
 
 ## Prev. Jobs
