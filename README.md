@@ -8,6 +8,7 @@
 ## Startup
 - [WorkWork](https://www.linkedin.com/company/workworkweb3/)
   - **Work everywhere,Work anytime.**
+  - Focus on outliers products in the crypto world.
 ## Community
   - [Web3-Club](https://github.com/Web3-Club)
     - Freedom & Opensource Chinese Web3 Community.
