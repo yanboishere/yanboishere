@@ -3,7 +3,7 @@
 
 
 
-# Hi, 👋  I'm <a href="https://yanboishere.github.io/" target="_blank">Yanbo  Wang (王彦博).</a> <sup>
+# Hi, 👋  I'm <a href="https://yanboishere.github.io/" target="_blank">Yanbo  Wang .</a> <sup>
 
 <!--my introduction start-->
 
