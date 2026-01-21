@@ -14,7 +14,9 @@
     - Freedom & Opensource Chinese Web3 Community.
   - [JLUBA](https://x.com/JLUBA2023)
     - Online Universities Blockchain Commuity in Jilin Province,China.
-  ---
+  
+---
+
 ## Prev. Work
 - Unemployed, looking for developer relations positions.
   ---
