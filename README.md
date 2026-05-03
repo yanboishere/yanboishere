@@ -1,4 +1,4 @@
-## Hi 👋 Yanbo here.
+## Hi👋 Yanbo here.
 
 
 ## About myself                                                                  
