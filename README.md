@@ -48,7 +48,7 @@
 ## Social Media
 Subscribe me with X.
 
-[![Twitter](https://img.shields.io/badge/@YanboOfficial-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YanboOfficial)
+[![Twitter](https://img.shields.io/badge/@Yanbo2004-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Yanbo2004)
 
 ---
 
