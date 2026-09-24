@@ -20,9 +20,6 @@
 ---
 
 ## Prev. Work
-- Unemployed, looking for developer relations positions.
-  ---
-
 
 ### Public Good
   
